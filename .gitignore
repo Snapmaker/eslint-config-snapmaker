@@ -1,0 +1,12 @@
+# gitignore
+
+node_modules
+
+# Only app should have lockfiles
+yarn.lock
+package-lock.json
+
+# Development Env
+*.swp
+.idea
+.DS_Store
