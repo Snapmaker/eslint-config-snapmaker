@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-snapmaker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Snapmaker's ESLint config.",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "parachvte",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^17.1.0"
+    "eslint-config-airbnb": "^18.2.1"
   }
 }
